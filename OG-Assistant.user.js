@@ -13,7 +13,7 @@
     'use strict';
 
     const CONFIG = {
-        defaultRadiusKm: 1000,
+        defaultRadiusKm: 1500,
         autoCloseMs: 30000,
         buttonTopStart: 20,
         buttonSpacing: 36
